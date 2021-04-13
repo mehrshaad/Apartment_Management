@@ -1,0 +1,81 @@
+{
+    "AbyariFilter": [
+        2,
+        7,
+        12
+    ],
+    "AbyariTurn1": [
+        3,
+        13
+    ],
+    "AbyariTurn2": [
+        13,
+        23
+    ],
+    "ActiveYear": 1400,
+    "AllowEnterDonePages": false,
+    "Bedehi": {
+        "1": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+    },
+    "Bilan6Month": true,
+    "ChangeBy1000": true,
+    "DarkMode": false,
+    "HazineOmrani": 0,
+    "LoadingDelay": 25,
+    "Molahezat": {
+        "1": 0,
+        "10": 0,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0,
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 0
+    },
+    "Nafarat": {
+        "1": 2,
+        "10": 3,
+        "11": 4,
+        "12": 1,
+        "13": 3,
+        "2": 4,
+        "3": 4,
+        "4": 4,
+        "5": 3,
+        "6": 3,
+        "7": 1,
+        "8": 4,
+        "9": 5
+    },
+    "OpenAbyari": true,
+    "PDF_outputName": "Apartment_11",
+    "PagesSize": [
+        "A1:G17",
+        "A1:H35",
+        "A1:I15",
+        "A1:J31"
+    ],
+    "Persian": true,
+    "SaveAbyariData": false,
+    "ShadowEffect": true,
+    "Sharj": 400000,
+    "ShowLoading": true,
+    "ShowPDF": true
+}
