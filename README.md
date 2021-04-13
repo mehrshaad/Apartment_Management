@@ -1,5 +1,12 @@
 # Apartment_Management
-Personal PyQt5 windows application which created for managing my personal apartment!
+Personal PyQt5 windows application which created for managing my personal apartment.
+
+#### it's capable of: 
++ creating a new copy of `.FreeForm.xlsx` to place current month data.
++ convert `xlsx` (excel) file into `pdf` file.
++ creating a folder in case to place output excel files.
++ switchable visual graphics for ui
++ switchable light/dark mode for ui
 
 ### Run Guide
 ----
