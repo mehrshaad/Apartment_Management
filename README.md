@@ -4,8 +4,8 @@ Personal PyQt5 windows application which created for managing my personal apartm
 #### it's capable of: 
 + creating a new copy of `FreeForm.xlsx` to place current month data.
 + convert `xlsx` (excel) file into `pdf` file.
-+ creating a folder in case to place output excel files.
-+ reading data from an excel file.
++ creating a new folder in case to place output excel files.
++ reading data from the excel file.
 + switchable visual graphics for ui
 + switchable light/dark mode for ui
 + English version coming soon!
