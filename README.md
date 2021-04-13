@@ -7,6 +7,7 @@ Personal PyQt5 windows application which created for managing my personal apartm
 + creating a folder in case to place output excel files.
 + switchable visual graphics for ui
 + switchable light/dark mode for ui
++ English version coming soon!
 
 ### Run Guide
 ----
