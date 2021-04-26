@@ -18,4 +18,4 @@ python "Apart11 {ver}.py"
 ```
 
 ----------
-Copyright © **[Mehrshad Dadashzadeh](https://www.linkedin.com/in/mehrshad-dadashzadeh-7053491b3/)** Summer 2020
+Copyright © **[Mehrshad Dadashzadeh](https://mehrshaad.github.io/)** Summer 2020
