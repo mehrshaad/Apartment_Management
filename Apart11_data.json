@@ -12,8 +12,8 @@
         13,
         23
     ],
-    "ActiveYear": 1400,
-    "AllowEnterDonePages": false,
+    "ActiveYear": 1401,
+    "AllowEnterDonePages": true,
     "Bedehi": {
         "1": 0,
         "10": 0,
@@ -29,7 +29,7 @@
         "8": 0,
         "9": 0
     },
-    "Bilan6Month": true,
+    "Bilan6Month": false,
     "ChangeBy1000": true,
     "DarkMode": false,
     "HazineOmrani": 0,
@@ -50,22 +50,23 @@
         "9": 0
     },
     "Nafarat": {
-        "1": 2,
-        "10": 3,
+        "1": 1,
+        "10": 4,
         "11": 4,
         "12": 1,
         "13": 3,
-        "2": 4,
-        "3": 4,
-        "4": 4,
+        "2": 3,
+        "3": 2,
+        "4": 3,
         "5": 3,
         "6": 3,
         "7": 1,
-        "8": 4,
-        "9": 5
+        "8": 3,
+        "9": 4
     },
     "OpenAbyari": true,
     "PDF_outputName": "Apartment_11",
+    "PDF_outputUnDone": true,
     "PagesSize": [
         "A1:G17",
         "A1:H35",
@@ -74,8 +75,8 @@
     ],
     "Persian": true,
     "SaveAbyariData": false,
-    "ShadowEffect": true,
-    "Sharj": 400000,
+    "ShadowEffect": false,
+    "Sharj": 1000000,
     "ShowLoading": true,
     "ShowPDF": true
 }

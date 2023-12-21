@@ -1,0 +1,5 @@
+open cmd in folder and type:
+python "Apart11 {ver}.py"
+
+open cmd as admin and add to path in PyInstaller (for converting to exe):
+C:\Users\USER\AppData\Local\Programs\Python\Python{ver}\Lib\site-packages\PyQt5\Qt5\bin

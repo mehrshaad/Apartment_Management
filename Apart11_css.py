@@ -60,8 +60,10 @@ butt_main_dark = '''QPushButton{
     color:black;
     background-color: rgb(237, 255, 153);}'''
 butt_transparent = 'background-color: transparent;'
-background_light = 'background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 255, 255, 255), stop:1 rgba(225, 225, 225, 255));'
-background_dark = 'background-color:qlineargradient(spread:pad, x1:1, y1:0.483, x2:0, y2:0.483, stop:0 rgba(0, 0, 0, 255), stop:1 rgba(30, 30, 30, 255));'
+background_light = 'background-color:rgba(225, 225, 225, 255);'
+background_dark = 'background-color:rgba(30, 30, 30, 255);'
+background_light_gradient = 'background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(255, 255, 255, 255), stop:1 rgba(225, 225, 225, 255));'
+background_dark_gradient = 'background-color:qlineargradient(spread:pad, x1:1, y1:0.483, x2:0, y2:0.483, stop:0 rgba(0, 0, 0, 255), stop:1 rgba(30, 30, 30, 255));'
 background_start = '''QLabel{
     background-color:qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(241, 255, 218, 255), stop:1 rgba(155, 255, 126, 255));
     text-align: center;

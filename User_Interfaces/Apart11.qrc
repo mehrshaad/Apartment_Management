@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="pics">
+    <file>../.Images/Icon/back.png</file>
+    <file>../.Images/Icon/settings.png</file>
+    <file>../.Images/Icon/euro.png</file>
+    <file>../.Images/Menu/back.png</file>
+  </qresource>
+</RCC>
