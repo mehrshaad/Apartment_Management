@@ -31,7 +31,7 @@
     },
     "Bilan6Month": false,
     "ChangeBy1000": true,
-    "DarkMode": true,
+    "DarkMode": false,
     "HazineOmrani": 0,
     "LoadingDelay": 25,
     "Molahezat": {
@@ -59,7 +59,7 @@
         "3": 2,
         "4": 4,
         "5": 3,
-        "6": 1,
+        "6": 3,
         "7": 1,
         "8": 3,
         "9": 4
